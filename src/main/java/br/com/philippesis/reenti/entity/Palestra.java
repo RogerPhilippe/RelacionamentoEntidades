@@ -29,9 +29,8 @@ import lombok.Setter;
 @AllArgsConstructor
 
 @Entity
-public class Palestra implements Serializable {/**
-	 * 
-	 */
+public class Palestra implements Serializable {
+
 	private static final long serialVersionUID = 1L;
 	
 	@Id
